@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build](https://github.com/chunliu/AzureDesignStudio/actions/workflows/build.yml/badge.svg)](https://github.com/chunliu/AzureDesignStudio/actions/workflows/build.yml)
 
-Azure Design Studio is a web application designed to simplify and streamline the process of creating solution architectures for Azure. With a focus on ease of use, efficiency, and consistency, it offers several key features:
+Azure Design Studio is a web application designed to simplify and streamline the process of creating solution architectures for Azure. With a focus on ease of use, efficiency, and consistency, it offers several key features:-
 
 - **Visual design**: Create solution architecture for Azure using a visually appealing and consistent styling.
 - **Validation**: Ensure your design adheres to the rules and constraints of Azure resources to reduce errors.
